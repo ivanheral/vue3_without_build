@@ -1,0 +1,20 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Hello World with vue3 and htm",
+  "scripts": {
+    "dev": "taskr dev"
+  },
+  "author": "ivanheral <ivanhernandezal@gmail.com>",
+  "keywords": [
+    "modules", "vue3", "vue", "htm"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@taskr/esnext": "^1.1.0",
+    "@taskr/watch": "^1.1.0",
+    "taskr": "^1.1.0",
+    "taskr-servor": "^1.0.3"
+  }
+}
